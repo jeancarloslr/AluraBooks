@@ -1,0 +1,10 @@
+.carrosel__titulo{
+    width: 100%;
+    text-align: center;
+    padding: 20px 0px 10px 0px;
+    background-color: white;
+    font-weight: 700;
+    font-size: 18px;
+    color: var(--laranja);
+    text-transform: uppercase;
+}
