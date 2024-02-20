@@ -9,8 +9,14 @@
     text-transform: uppercase;
 }
 
+.swiper-slide{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .swiper-slide img{
-    width: 100%;
+    width: 60%;
 }
 
 .swiper-button-prev, .swiper-button-next{
@@ -19,5 +25,5 @@
 
 .swiper-pagination{
      position: initial;
-     padding: 5px 0px;
+     padding: 10px 0px;
 }
